@@ -1,4 +1,4 @@
-# Marketting Analyst
+# Marketing Analyst
 
 **Technical Skills: SQL, Python, R-Programming, Java, HTML/CSS, Wordpress, Microsoft Excel, PowerBi**
 
