@@ -1,11 +1,11 @@
 # Marketting Analyst
 
-**Technical Skills: SQL, Python, R-Programming, Java, HTML/CSS, Wordpress, Microsoft Excel, PowerBi
+**Technical Skills: SQL, Python, R-Programming, Java, HTML/CSS, Wordpress, Microsoft Excel, PowerBi**
 
 ### Education
-- M.S., Molecular Biology & Human Genetics | Manipal University, Manipal (_June 2024_) | Percentage - 81.3%
-- B.S., Chemistry | St. Aloysius Degree College, Mangalore (_April 2021_) | Percentage - 71%
-- 10th Grade | St. Charles High School, Shimoga (_April 2015_) | Percentage - 98.56%
+- M.S., Molecular Biology & Human Genetics | Manipal University, Manipal (_June 2024_)             | Percentage - 81.3%
+- B.S., Chemistry                          | St. Aloysius Degree College, Mangalore (_April 2021_) | Percentage - 71%
+- 10th Grade                               | St. Charles High School, Shimoga (_April 2015_)       | Percentage - 98.56%
 
 ### Work Experience
 **Freelance Content Writer @ Writing Creek Services (_January 2019 - January 2021_)**
@@ -18,7 +18,7 @@
 - Executed data-driven social media campaigns on Instagram and Facebook Ads, achieving 100+ product sales in 2 months.
 - Analyzed sales trends and customer insights to refine advertising strategies, resulting in a 20% increase in conversion rates.
 
-**Research Intern @ Yenepoya Research Centre, Yenepoya University (_March 2021 - January 2022_)
+**Research Intern @ Yenepoya Research Centre, Yenepoya University (_March 2021 - January 2022_)**
 -Conducted research on the topic "The role of Pai-1 in Regulating Basement Membrane Proteins in Fibroblasts for Pulmonary Fibrosis". 
 -Produced data-driven research articles and reviews for international journals.
 
